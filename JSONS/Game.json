@@ -1,0 +1,376 @@
+{
+  "$type": "ThunderRoad.GameData, ThunderRoad",
+  "categories": [
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "TCU MK1 Uniforms",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.TCU-MK1.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "TCU MK3 Uniforms",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.TCU-MK3.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "TCU Relaxed",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.TCUR.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "BDU Relaxed",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.BDUR.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "M65 Jackets",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.M65.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "SWD Goggles",
+      "group": "Miniscule's CW Gear",
+      "iconAddress": "MCW.Logo.SWDG.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "OG-107 Uniforms",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.OG-107.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Ball Caps",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.Cap.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "M1 Helmets",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.M1HELMET.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "M2 Helmets",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.M2HELMETS.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "M1 Helmets (Graffiti)",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.M1GRAFFITI.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Tiger Stripe",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.TigerStripe.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Boonies",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.Boonies.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Backpacks",
+      "group": "Miniscule's CW Gear",
+      "iconAddress": "MCW.Logo.Backpacks.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "M1951 Caps",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.M1951.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "M1C Helmets",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.M1CHelmet.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "MACV Vests",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.MACVVest.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Nomex Gloves",
+      "group": "Miniscule's CW Gear",
+      "iconAddress": "MCW.Logo.Nomex.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Night-Vision Devices",
+      "group": "Miniscule's CW Gear",
+      "iconAddress": "MCW.Logo.NVG.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Miscellaneous",
+      "group": "Miniscule's CW Gear",
+      "iconAddress": "MCW.Logo.MISC.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Flight Gear",
+      "group": "Miniscule's CW Gear",
+      "iconAddress": "MCW.Logo.FLIGHT.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Gas-Masks",
+      "group": "Miniscule's CW Gear",
+      "iconAddress": "MCW.Logo.GASMASKS.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "FLAK Vest",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.FLAK.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "BDU Uniforms",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.BDUUniforms.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Raid BDU Uniforms",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.RBDUUniforms.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Civilian Clothes",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.Civi.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "MOPP Suits",
+      "group": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.Logo.MOPP.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "PASGT Helmets",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.PASGTHelmet.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "PASGT Helmets (Graffiti)",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.HCWriting.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "PASGT Vests",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.PASGTVest.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "CVC Helmets",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.CVC.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Pro-Tec Helmets",
+      "group": "Miniscule's CW Covers",
+      "iconAddress": "MCW.Logo.PTHelmet.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "Alice Rigs",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.Alice.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "M1956 Rigs",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.1956.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "AWS Rigs",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.AWS.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "LBV Rigs",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.LBV.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "TG Faust Vests",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.FAUST.Icon"
+    },
+    {
+      "$type": "ThunderRoad.GameData+Category, ThunderRoad",
+      "name": "RBA Vests",
+      "group": "Miniscule's CW Vests",
+      "iconAddress": "MCW.Logo.RBA.Icon"
+    },
+  ],
+  "categoryGroups":
+  [
+    {
+      "$type": "ThunderRoad.GameData+CategoryGroup, ThunderRoad",
+      "id": "Miniscule's CW Covers",
+      "iconAddress": "MCW.M1LooseP1.Icon",
+      "useInInventory": true,
+      "inventorySortingOrder": 1,
+      "inventoryMaxSlotAmount": 10,
+      "limitInventoryMaxItemAmount": false,
+      "inventoryMaxItemAmount": 0,
+      "hoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": "Bas.AudioGroup.Misc.CategoryGroupHoverUnknown",
+        "volumeDb": -12.0
+      },
+      "selectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemHoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemSelectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemStoreSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      }
+    },
+    {
+      "$type": "ThunderRoad.GameData+CategoryGroup, ThunderRoad",
+      "id": "Miniscule's CW Uniforms",
+      "iconAddress": "MCW.M1LooseP1.Icon",
+      "useInInventory": true,
+      "inventorySortingOrder": 1,
+      "inventoryMaxSlotAmount": 10,
+      "limitInventoryMaxItemAmount": false,
+      "inventoryMaxItemAmount": 0,
+      "hoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": "Bas.AudioGroup.Misc.CategoryGroupHoverUnknown",
+        "volumeDb": -12.0
+      },
+      "selectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemHoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemSelectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemStoreSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      }
+    },
+    {
+      "$type": "ThunderRoad.GameData+CategoryGroup, ThunderRoad",
+      "id": "Miniscule's CW Gear",
+      "iconAddress": "MCW.M1LooseP1.Icon",
+      "useInInventory": true,
+      "inventorySortingOrder": 1,
+      "inventoryMaxSlotAmount": 10,
+      "limitInventoryMaxItemAmount": false,
+      "inventoryMaxItemAmount": 0,
+      "hoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": "Bas.AudioGroup.Misc.CategoryGroupHoverUnknown",
+        "volumeDb": -12.0
+      },
+      "selectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemHoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemSelectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemStoreSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      }
+    },
+    {
+      "$type": "ThunderRoad.GameData+CategoryGroup, ThunderRoad",
+      "id": "Miniscule's CW Vests",
+      "iconAddress": "MCW.M1LooseP1.Icon",
+      "useInInventory": true,
+      "inventorySortingOrder": 1,
+      "inventoryMaxSlotAmount": 10,
+      "limitInventoryMaxItemAmount": false,
+      "inventoryMaxItemAmount": 0,
+      "hoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": "Bas.AudioGroup.Misc.CategoryGroupHoverUnknown",
+        "volumeDb": -12.0
+      },
+      "selectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemHoverSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemSelectSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      },
+      "itemStoreSounds": {
+        "$type": "ThunderRoad.GameData+AudioContainerAddressAndVolume, ThunderRoad",
+        "audioContainerAddress": null,
+        "volumeDb": 0.0
+      }
+    }
+  ]
+}
