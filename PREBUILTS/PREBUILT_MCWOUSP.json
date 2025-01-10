@@ -1,0 +1,229 @@
+{
+  "$type": "GhettosFirearmSDKv2.GunLockerSaveData, GhettosFirearmSDKv2",
+  "id": "PREBUILT_MCWOUSP",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "DisplayName": "MCWO USP",
+  "ItemId": "Ghetto05.Firearms.USPv2.USP",
+  "Category": "Prebuilts",
+  "DataList": [
+    {
+      "$type": "GhettosFirearmSDKv2.FirearmSaveData, GhettosFirearmSDKv2",
+      "FirearmNode": {
+        "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+        "Slot": null,
+        "SlotPosition": 0,
+        "AttachmentId": null,
+        "Childs": [
+          {
+            "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+            "Slot": "Slide",
+            "SlotPosition": 0,
+            "AttachmentId": "Ghetto05.Firearms.USPv2.Slide.Black",
+            "Childs": [
+              {
+                "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+                "Slot": "Front Sight",
+                "SlotPosition": 0,
+                "AttachmentId": "Ghetto05.Firearms.USPv2.FrontSight",
+                "Childs": [],
+                "Values": []
+              },
+              {
+                "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+                "Slot": "Rear Sight",
+                "SlotPosition": 0,
+                "AttachmentId": "Ghetto05.Firearms.USPv2.RearSight",
+                "Childs": [],
+                "Values": []
+              }
+            ],
+            "Values": []
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+            "Slot": "Barrel",
+            "SlotPosition": 0,
+            "AttachmentId": "Ghetto05.Firearms.USPv2.Barrel.45ACP",
+            "Childs": [],
+            "Values": []
+          }
+        ],
+        "Values": [
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueItem, GhettosFirearmSDKv2",
+            "ID": "SavedAmmoItemData",
+            "Value": {
+              "$type": "GhettosFirearmSDKv2.ItemSaveData, GhettosFirearmSDKv2",
+              "ItemID": "Ghetto05.Firearms.USPv2.Magazine",
+              "CustomData": [
+                {
+                  "$type": "GhettosFirearmSDKv2.MagazineSaveData, GhettosFirearmSDKv2",
+                  "ItemID": "Ghetto05.Firearms.USPv2.Magazine",
+                  "Contents": [
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    },
+                    {
+                      "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                      "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                      "IsFired": false
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueInt, GhettosFirearmSDKv2",
+            "Value": 0,
+            "ID": "Firemode"
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueBool, GhettosFirearmSDKv2",
+            "Value": true,
+            "ID": "HammerState"
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueBool, GhettosFirearmSDKv2",
+            "Value": true,
+            "ID": "PressureSwitchState"
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueMagazineContents, GhettosFirearmSDKv2",
+            "Value": {
+              "$type": "GhettosFirearmSDKv2.MagazineSaveData, GhettosFirearmSDKv2",
+              "ItemID": "Ghetto05.Firearms.USPv2.Magazine",
+              "Contents": [
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+                  "IsFired": false
+                }
+              ]
+            },
+            "ID": "MagazineSaveData"
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueCartridgeData, GhettosFirearmSDKv2",
+            "Value": {
+              "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+              "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.45ACP.Tracer",
+              "IsFired": false
+            },
+            "ID": "BoltChamberSaveData"
+          }
+        ]
+      }
+    }
+  ],
+  "groupPath": null
+}

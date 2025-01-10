@@ -1,0 +1,163 @@
+{
+  "$type": "GhettosFirearmSDKv2.GunLockerSaveData, GhettosFirearmSDKv2",
+  "id": "PREBUILT_MCWOSPAS",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "DisplayName": "MCWO SPAS",
+  "ItemId": "Ghetto05.Firearms.SPAS12.Base",
+  "Category": "Prebuilts",
+  "DataList": [
+    {
+      "$type": "GhettosFirearmSDKv2.FirearmSaveData, GhettosFirearmSDKv2",
+      "FirearmNode": {
+        "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+        "Slot": null,
+        "SlotPosition": 0,
+        "AttachmentId": null,
+        "Childs": [
+          {
+            "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+            "Slot": "Sight Rail",
+            "SlotPosition": 0,
+            "AttachmentId": "Ghetto05.Firearms.SPAS12.TopRail",
+            "Childs": [
+              {
+                "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+                "Slot": "Picatinny",
+                "SlotPosition": 4,
+                "AttachmentId": "Ghetto05.Firearms.Attachments.Tactical.BlueLaser",
+                "Childs": [],
+                "Values": [
+                  {
+                    "$type": "GhettosFirearmSDKv2.SaveNodeValueInt, GhettosFirearmSDKv2",
+                    "Value": 1,
+                    "ID": "SwitchGhetto05.Firearms.Attachments.Tactical.BlueLaser(Clone)"
+                  }
+                ]
+              },
+              {
+                "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+                "Slot": "Picatinny",
+                "SlotPosition": 1,
+                "AttachmentId": "Ghetto05.Firearms.Attachments.PressurePads.UnityTAPS",
+                "Childs": [],
+                "Values": []
+              }
+            ],
+            "Values": []
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+            "Slot": "Stock",
+            "SlotPosition": 0,
+            "AttachmentId": "Ghetto05.Firearms.SPAS12.Stock",
+            "Childs": [],
+            "Values": [
+              {
+                "$type": "GhettosFirearmSDKv2.SaveNodeValueInt, GhettosFirearmSDKv2",
+                "Value": 0,
+                "ID": "StockPositionBase_Axis"
+              }
+            ]
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.FirearmSaveData+AttachmentTreeNode, GhettosFirearmSDKv2",
+            "Slot": "Magazine",
+            "SlotPosition": 0,
+            "AttachmentId": "Ghetto05.Firearms.SPAS12.Magazine",
+            "Childs": [],
+            "Values": []
+          }
+        ],
+        "Values": [
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueItem, GhettosFirearmSDKv2",
+            "ID": "SavedAmmoItemData",
+            "Value": {
+              "$type": "GhettosFirearmSDKv2.ItemSaveData, GhettosFirearmSDKv2",
+              "ItemID": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+              "CustomData": [
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                }
+              ]
+            }
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueBool, GhettosFirearmSDKv2",
+            "Value": true,
+            "ID": "HammerState"
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueMagazineContents, GhettosFirearmSDKv2",
+            "Value": {
+              "$type": "GhettosFirearmSDKv2.MagazineSaveData, GhettosFirearmSDKv2",
+              "ItemID": null,
+              "Contents": [
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                },
+                {
+                  "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+                  "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+                  "IsFired": false
+                }
+              ]
+            },
+            "ID": "MagazineSaveData"
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueInt, GhettosFirearmSDKv2",
+            "Value": 0,
+            "ID": "Firemode"
+          },
+          {
+            "$type": "GhettosFirearmSDKv2.SaveNodeValueCartridgeData, GhettosFirearmSDKv2",
+            "Value": {
+              "$type": "GhettosFirearmSDKv2.CartridgeSaveData, GhettosFirearmSDKv2",
+              "ItemId": "Ghetto05.FirearmFrameworkV2.Ammunition.12gauge.Slug",
+              "IsFired": false
+            },
+            "ID": "BoltChamberSaveData"
+          }
+        ]
+      }
+    }
+  ],
+  "groupPath": null
+}

@@ -1,0 +1,95 @@
+{
+  "$type": "ThunderRoad.ContainerData, ThunderRoad",
+  "id": "MCW.Operator.Creatures.AlertMidRange.Container",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 1,
+  "displayName": "US Operator (Dungeon)",
+  "description": null,
+  "contents": [],
+  "containerContents": [
+    {
+      "$type": "ThunderRoad.TableContent, ThunderRoad",
+      "referenceID": "MCW.LootTable.AlertPants",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.TableContent, ThunderRoad",
+      "referenceID": "MCW.LootTable.AlertShirts",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.BDUBootsJungleBLK",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.FAUSTVest",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.TableContent, ThunderRoad",
+      "referenceID": "MCW.LootTable.AlertRigs",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.TableContent, ThunderRoad",
+      "referenceID": "MCW.LootTable.AlertHelmet",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.TableContent, ThunderRoad",
+      "referenceID": "MCW.LootTable.AlertFace",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.TableContent, ThunderRoad",
+      "referenceID": "MCW.LootTable.AlertMidRangeWeapons",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateHolder, ThunderRoad",
+        "holderName": "BackRight"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.TableContent, ThunderRoad",
+      "referenceID": "MCW.LootTable.HandgunWeapons",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateHolder, ThunderRoad",
+        "holderName": "HipsRight"
+      },
+      "customDataList": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "$type": "ThunderRoad.ContainerData, ThunderRoad",
+  "id": "MCW.Creatures.CWVMG.Container",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 1,
+  "displayName": "US Army Machinegunner (1968)",
+  "description": null,
+  "contents": [],
+  "containerContents": [
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.SHIRTROD",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.PANTSROD",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.MK1JungleBoots",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.FLAKVESTOPEN",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.FLAK56RIGMG",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.M1WShark",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "Hair06",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "PREBUILT_M60",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateHolder, ThunderRoad",
+        "holderName": "BackRight"
+      },
+      "customDataList": []
+    }
+  ]
+}

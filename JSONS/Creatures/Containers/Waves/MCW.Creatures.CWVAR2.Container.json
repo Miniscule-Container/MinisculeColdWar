@@ -1,0 +1,85 @@
+{
+  "$type": "ThunderRoad.ContainerData, ThunderRoad",
+  "id": "MCW.Creatures.CWVAR2.Container",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 1,
+  "displayName": "US Army Soldier 2 (1968)",
+  "description": null,
+  "contents": [],
+  "containerContents": [
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.MK1PantsOD",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.MK1RolledOD",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.MK1JungleBoots",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.56RIG1",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.AlicePackFOD2",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "MCW.M1WPeace",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "Hair06",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateWorn, ThunderRoad"
+      },
+      "customDataList": []
+    },
+    {
+      "$type": "ThunderRoad.ItemContent, ThunderRoad",
+      "referenceID": "PREBUILT_Colt614M16A1",
+      "quantity": 1,
+      "state": {
+        "$type": "ThunderRoad.ContentStateHolder, ThunderRoad",
+        "holderName": "HipsRight"
+      },
+      "customDataList": []
+    }
+  ]
+}

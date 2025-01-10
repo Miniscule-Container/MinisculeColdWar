@@ -1,0 +1,53 @@
+{
+  "$type": "ThunderRoad.WaveData, ThunderRoad",
+  "id": "MCW.Waves.Vietnam",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 2,
+  "category": "MCW Test",
+  "localizationId": "MCW.Waves.Vietnam",
+  "title": "Vietnam Wave",
+  "description": "Fight against waves of US Army in Vietnam Era kit.",
+  "loopBehavior": "LoopSeamless",
+  "totalMaxAlive": 4,
+  "alwaysAvailable": true,
+  "waveSelectors": [
+    "Arena",
+    "Ruins",
+    "Market",
+    "Canyon",
+    "Citadel"
+  ],
+  "factions": [
+    {
+      "$type": "ThunderRoad.WaveData+WaveFaction, ThunderRoad",
+      "factionID": 3,
+      "factionHealthMultiplier": 1.0,
+      "factionMaxAlive": 8
+    }
+  ],
+  "groups": [
+    {
+      "$type": "ThunderRoad.WaveData+Group, ThunderRoad",
+      "reference": "Table",
+      "referenceID": "MCW.Creatures.CWVietnam",
+      "overrideFaction": false,
+      "factionID": 0,
+      "overrideContainer": false,
+      "overrideContainerID": "",
+      "overrideBrain": true,
+      "overrideBrainID": "HumanHard",
+      "overrideMaxMelee": false,
+      "overrideMaxMeleeCount": 1,
+      "groupHealthMultiplier": 1.0,
+      "minMaxCount": {
+        "x": 10,
+        "y": 10
+      },
+      "spawnPointIndex": -1,
+      "prereqGroupIndex": -1,
+      "prereqMaxRemainingAlive": 0
+    }
+  ],
+  "groupPath": "Sandbox"
+}

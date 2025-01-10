@@ -1,0 +1,52 @@
+{
+  "$type": "ThunderRoad.EnemyConfig, ThunderRoad",
+  "id": "MCW.EnemyConfig.DalgarianEnemyConfigT3",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "iconAddress": "Bas.Icon.EnemyConfig.The_Eye",
+  "customIconColor": true,
+  "iconColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "color": {
+    "r": 0.5647059,
+    "g": 0.152941182,
+    "b": 0.172549024,
+    "a": 1.0
+  },
+  "name": "US Operator",
+  "nameLocalizationId": "USOperatorOutpost",
+  "descriptionsByLevelId": [
+    {
+      "$type": "ThunderRoad.EnemyConfig+DescriptionByLevelId, ThunderRoad",
+      "levelId": "DungeonDalgarian",
+      "description": "TheEyeDalgDesc"
+    }
+  ],
+  "patrolMixId": "MCW.Operator.Creatures.PatrolMidRange",
+  "patrolMeleeId": "MCW.Operator.Creatures.PatrolCQB",
+  "patrolRangedId": "MCW.Operator.Creatures.PatrolLongRange",
+  "alertMixId": "MCW.Operator.Creatures.AlertMidRange",
+  "alertMeleeId": "MCW.Operator.Creatures.AlertCQB",
+  "alertRangedId": "MCW.Operator.Creatures.AlertLongRange",
+  "rareMixId": "MCW.Operator.Creatures.RareMidRange",
+  "rareMeleeId": "MCW.Operator.Creatures.RareCQB",
+  "rareRangedId": "MCW.Operator.Creatures.RareLongRange",
+  "meleeOnlyStd": "MCW.WaveDungeon.OperatorStd.CQBOnly",
+  "meleeFocusedStd": "MCW.WaveDungeon.Operator.Std.CQBFocused",
+  "mixedStd": "MCW.WaveDungeon.Operator.Std.Mixed",
+  "rangedFocusedStd": "MCW.WaveDungeon.Operator.Std.MidRangedFocused",
+  "meleeOnlyArena": "MCW.WaveDungeon.Operator.Arena.CQBOnly",
+  "meleeFocusedArena": "MCW.WaveDungeon.Operator.Arena.CQBFocused",
+  "mixedArena": "MCW.WaveDungeon.Operator.Arena.Mixed",
+  "rangedFocusedArena": "MCW.WaveDungeon.Operator.Arena.MidRangedFocused",
+  "meleeOnlyEnd": "MCW.WaveDungeon.Operator.End.CQBOnly",
+  "meleeFocusedEnd": "MCW.WaveDungeon.Operator.End.CQBFocused",
+  "mixedEnd": "MCW.WaveDungeon.Operator.End.Mixed",
+  "rangedFocusedEnd": "MCW.WaveDungeon.Operator.End.MidRangedFocused",
+  "groupPath": null
+}

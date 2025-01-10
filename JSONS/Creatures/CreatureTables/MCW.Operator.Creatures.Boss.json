@@ -1,0 +1,26 @@
+{
+  "$type": "ThunderRoad.CreatureTable, ThunderRoad",
+  "id": "MCW.Operator.Creatures.Boss",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 1,
+  "description": null,
+  "linkedToGenderRatio": false,
+  "drops": [
+    {
+      "$type": "ThunderRoad.CreatureTable+Drop, ThunderRoad",
+      "reference": "Creature",
+      "referenceID": "MCW.Creatures.MiniCreature",
+      "overrideFaction": false,
+      "factionID": 0,
+      "overrideContainer": true,
+      "overrideContainerID": "MCW.Operator.Creatures.Boss.Container",
+      "overrideBrain": true,
+      "overrideBrainID": "HumanHard",
+      "overrideEthnicity": false,
+      "overrideEthnicityID": null,
+      "probabilityWeight": 1
+    }
+  ],
+  "groupPath": "Factions/Dungeon"
+}
