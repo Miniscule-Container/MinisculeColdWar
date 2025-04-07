@@ -25,7 +25,7 @@
   "factionId": 3,
   "countTowardsMaxAlive": true,
   "brainId": "HumanMedium",
-  "avoidancePriority": 8,
+  "avoidancePriority": 2,
   "jumpEffectId": "Jump",
   "kickEffectId": "Kick",
   "playerFallDamageEffectId": "Fall",
